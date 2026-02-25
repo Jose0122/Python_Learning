@@ -88,3 +88,6 @@ b = B()
 print(isinstance(b,B))
 print(isinstance(b,A))
 print(type(b) == A)
+
+a = 10
+print(type(str(a)))
